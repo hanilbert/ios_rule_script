@@ -1,12 +1,7 @@
-# NAME: Game
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-07 02:10:59
-# DOMAIN-SUFFIX: 503
-# IP-CIDR: 45
-# DOMAIN: 4
-# TOTAL: 552
-payload:
+# 内容：Game
+# 数量：n条
+# 我就是不理解，为什么用不了
+
 
 DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
 DOMAIN,login.live.com
